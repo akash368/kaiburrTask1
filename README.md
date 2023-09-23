@@ -1,6 +1,6 @@
 # kaiburrTask1
 
-Use Doc-task1 file to get all apis, input and output
+##Use Doc-task1 file to get all apis, input and output
 
 # Java REST API Application for Server Management
 
@@ -20,21 +20,22 @@ This project involves implementing a Java application that provides a REST API f
 Example:
 ```json
 {
-  "name": "my centos",
-  "id": "123",
-  "language": "java",
-  "framework": "django"
+    "id": "6",
+    "name": "Akash",
+    "language" : "PHP",
+    "framework" : "Larvel"
 }
 ```
-DELETE /server/:id
+###DELETE 
+-/server/:id
 Deletes a server based on the provided server ID.
 
-Database
-The server objects are stored in a MongoDB database.
+###Database
+-The server objects are stored in a MongoDB database.
 
-Usage
-Clone the repository.
-Open the project in IntelliJ.
-Ensure MongoDB is installed and running on the specified port (8070).
-Run the application to start the server.
-Use an HTTP client like Postman or cURL to interact with the API and test the endpoints.
+###Usage
+-Clone the repository.
+-Open the project in IntelliJ.
+-Ensure MongoDB is installed and running on the specified port (8070).
+-Run the application to start the server.
+-Use an HTTP client like Postman or cURL to interact with the API and test the endpoints.

@@ -6,6 +6,19 @@
 
 This project involves implementing a Java application that provides a REST API for managing server objects, utilizing MongoDB as the database. The application includes endpoints for searching, creating, and deleting server objects.
 
+## Prerequisites
+
+Before implementing the Java REST API, ensure that you have the following prerequisites in place:
+
+1. **Java Development Kit (JDK)**: Install JDK 8 or higher.
+
+2. **Integrated Development Environment (IDE)**: Choose an IDE such as IntelliJ IDEA, Eclipse, or Visual Studio Code for coding and project management.
+
+3. *MongoDB*: Install MongoDB and ensure it's running. You should have a MongoDB instance to store server objects.
+
+4. *Maven or Gradle*: Choose a build tool (Maven or Gradle) to manage dependencies and build your project.
+
+
 ## Endpoints
 
 ### GET /user/

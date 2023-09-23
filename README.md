@@ -37,15 +37,15 @@ Example:
 - Returns 404 if no servers are found.
 
 ### DELETE 
--/user/delete:id
-Deletes a server based on the provided server ID.
+- /user/delete:id
+- Deletes a server based on the provided server ID.
 
 ### Database
--The server objects are stored in a MongoDB database.
+- The server objects are stored in a MongoDB database.
 
 ### Usage
--Clone the repository.
--Open the project in IntelliJ.
--Ensure MongoDB is installed and running on the specified port (8070).
--Run the application to start the server.
+- Clone the repository.
+- Open the project in IntelliJ.
+- Ensure MongoDB is installed and running on the specified port (8070).
+- Run the application to start the server.
 -Use an HTTP client like Postman or cURL to interact with the API and test the endpoints.

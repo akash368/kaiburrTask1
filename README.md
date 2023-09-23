@@ -1,6 +1,6 @@
 # kaiburrTask1
 
-##Use Doc-task1 file to get all apis, input and output
+## Use Doc-task1 file to get all API's endpoint, input and output screenshot.
 
 # Java REST API Application for Server Management
 
